@@ -11,3 +11,10 @@
 17 / 5.0 #=> 3.4
 
 
+# To convert integer to float
+13.to_f #=> 13.0
+
+#To convert float to integer
+13.0.to_i #=> 13
+
+13.9.to_i #=> 13 
