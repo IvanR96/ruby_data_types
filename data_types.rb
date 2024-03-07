@@ -28,3 +28,11 @@
 6.odd? #=> false
 7.odd? #=> true
 
+#concatenation with plus operator
+"Welcome " + "to " + "Odin!" #=> "Welcome to Odin!"
+
+#concatenation with shovel operator
+"Welcome " << "to " << "Odin!" #=> "Welcome to Odin!"
+
+#concatenation with concat method
+"Welcome ".concat("to ").concat("Odin!") #=> "Welcome to Odin!"
