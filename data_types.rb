@@ -18,3 +18,13 @@
 13.0.to_i #=> 13
 
 13.9.to_i #=> 13 
+
+
+#even numbers
+6.even? #=> true
+7.even #=> false
+
+#odd numbers
+6.odd? #=> false
+7.odd? #=> true
+
